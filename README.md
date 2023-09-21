@@ -5,7 +5,7 @@ FizzBuzzF\*ck
 
 FizzBuzzを0バイトで実装することを可能にした、Brainf\*\*k派生言語。
 
-## 言語仕様
+## 言語仕様 (概要)
 
 * 基本的には[Brainf\*\*k](https://www.muppetlabs.com/~breadbox/bf/)と同じである。
 * プログラムの実行開始直前に、配列にFizzBuzzの出力となる文字列を格納する。
@@ -19,7 +19,7 @@ FizzBuzzを0バイトで実装することを可能にした、Brainf\*\*k派生
 
 A language derived from Brainf\*\*k which enables to implement FizzBuzz in 0 bytes.
 
-## Language Specification
+## Language Specification (abstract)
 
 * Basically the same as [Brainf\*\*k](https://www.muppetlabs.com/~breadbox/bf/).
 * Store the output of FizzBuzz just before starting execution of the program.
