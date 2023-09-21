@@ -1,0 +1,11 @@
+This example read data from standard input until EOF (0xFF)
+and then print what is read using the "final output" feature
+
+# initialize the first element to zero
+[-]
+
+# read input
+>,+[>,+]
+
+# rewind the pointer
+<[-<]>
